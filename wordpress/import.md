@@ -75,7 +75,7 @@ You can use the plugin [FG Joomla to WordPress](https://wordpress.org/plugins/fg
 
 ## Movable Type and TypePad
 
-WordPress includes an import tool designed specifically for importing content from Movable Type and TypePad.
+WordPress includes an import tool  designed specifically for importing content from Movable Type and TypePad.
 
 1. In your WordPress site, select Tools -> Import on the left nav of the admin screen.
 2. Under "Movable Type and TypePad", if you haven't already installed the importer, click "Install Now".
